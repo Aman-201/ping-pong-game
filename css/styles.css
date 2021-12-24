@@ -1,0 +1,56 @@
+#boundary{
+  /* background-color: black;
+  color: green;
+  display: inline-block; */
+  position: absolute;
+
+border-style: inset;
+border-width: thick;
+  width: 97vw;
+  height: 97vh;
+left: 1%;
+
+}
+/* body
+{
+  background-color: black;
+} */
+.rod
+{
+    /* display: inline-block; */
+  position: absolute;
+  height: 5%;
+  width: 90px;
+  background-color: blue;
+border-radius: 40%;
+margin: auto auto;
+/* margin: 1% 45%; */
+
+}
+.rod1{
+  position: absolute;
+  margin-top: 1%;
+}
+.rod2
+{
+position: absolute;
+  margin-top: 45%;
+}
+/* .ball
+{
+  position: absolute;
+  top: 50%;
+  left: 53%;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+
+  border-radius: 50%;
+} */
+canvas{
+  position: absolute;
+margin: auto auto;
+
+  background-color: black;
+
+}
